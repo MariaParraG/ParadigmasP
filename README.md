@@ -13,7 +13,7 @@ Este repositorio implementa las operaciones básicas de los números naturales u
 
 ## Uso  
 
-Ejecutar el archivo `naturales.py` en Python:  
+Ejecutar el archivo `operaciones.py` en Python:  
 
 ```sh
 python operaciones.py
